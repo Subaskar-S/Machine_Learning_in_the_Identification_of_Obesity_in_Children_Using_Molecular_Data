@@ -1,0 +1,2 @@
+# Machine_Learning_in_the_Identification_of_Obesity_in_Children_Using_Molecular_Data
+This research focuses on leveraging machine learning techniques to analyze molecular data, such  as genetic and biomarker information, to identify and understand factors contributing to  childhood obesity. The aim is to develop predictive models and insights that can aid in early  diagnosis and intervention for this critical health issue.
